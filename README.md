@@ -1,6 +1,6 @@
 <!-- profile README.md -->
 
-<h1 align="center">Hi there 👋, I'm Sergey</h1>
+<h1 align="center">Hi there 👋, I'm Serhii</h1>
 <h3 align="center">💻 Junior Web Developer | HTML, CSS, JS, Python & MySQL 💾</h3>
 
 ---
@@ -10,7 +10,7 @@
 - 🛠️ Technologies: HTML5, CSS3, JavaScript, Python, MySQL  
 - 🌍 Based in Poland, looking for remote opportunities  
 - 🌱 Currently learning: Django + REST API + React  
-- ✉️ Contact me: [sergeysv1101@gmail.com](mailto:sergeysv1101@gmail.com)
+- ✉️ Contact me: [serhiishtankevych@gmail.com](mailto:serhiishtankevych@gmail.com)
 
 ---
 
